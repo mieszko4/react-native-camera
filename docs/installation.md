@@ -31,7 +31,7 @@ title: Installation
 <string>Your message to user when the photo library is accessed for the first time</string>
 ```
 
-5. Declare the permissions in your Android Manifest (required for `video recording` feature)
+5. Declare the permissions in your Android Manifest
 
 ```xml
 <uses-permission android:name="android.permission.CAMERA" />
